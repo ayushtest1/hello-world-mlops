@@ -20,7 +20,7 @@ This repository demonstrates a tiny reproducible MLOps flow:
     python train.py
 
 4. Run a single prediction from CLI:
-    python run_model.py --input "[5.1, 3.5, 1.4, 0.2]"
+    python run_model.py --input "[5.1, 3.5, 1.4, 0.3]"
 
 5. Start the API:
     python src/app.py
